@@ -19,7 +19,7 @@ export default function MainHeader() {
         <UpcomingSessions onClose={hideUpcomingSessions} />
       )}
       <header id="main-header">
-        <h1>React Mentoring</h1>
+        <h1>React Mentoring testtt</h1>
         <nav>
           <ul>
             <li>
